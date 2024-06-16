@@ -38,4 +38,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1wes&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1wes&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1wes)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1wes)](https://git.io/streak-stats&theme=dark)
