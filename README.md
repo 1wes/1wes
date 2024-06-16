@@ -31,6 +31,9 @@
 [<img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="PHP" width="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />](https://www.php.net/)
 [<img align="left" alt="Apache" width="32px" src="https://cdn.worldvectorlogo.com/logos/apache.svg" />](https://httpd.apache.org/)
+[<img align="left" alt="Next.js" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />](https://nextjs.org/)
+[<img align="left" alt="TypeScript" width="32px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />](https://www.typescriptlang.org/)
+
 
 
 
