@@ -17,10 +17,10 @@
 
 [<img align="left" alt="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
 [<img align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
-[<img align="left" alt="MySQL" width="32px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
+[<img align="left" alt="MongoDB" width="42px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Material UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/)
-[<img align="left" alt="Postman" width="32px" src="https://www.postman.com/assets/logos/pm-logo-vert-3d3f127c0d3d0a2f157524e557a5cbff2d7c1b7b367a25cbb7a7c719bfbfa21f.svg" />](https://www.postman.com/)
+[<img align="left" alt="Postman" width="32px" src="https://www.postman.com/assets/postman-logo-horizontal-9e5ed1074b60c2074e313025d5f459ed6d70c6a2d1b903c1249f26de5ecf5b8e.svg" />](https://www.postman.com/)
 [<img align="left" alt="Socket.IO" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />](https://socket.io/)
 [<img align="left" alt="Docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />](https://www.docker.com/)
 [<img align="left" alt="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,6 +28,7 @@
 [<img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="Linux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />](https://www.linux.org/)
 [<img align="left" alt="Express.js" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />](https://expressjs.com/)
+
 
 
 
