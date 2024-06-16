@@ -19,7 +19,7 @@
 [<img align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
 [<img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="42px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
-[<img align="left" alt="Material UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/)
+[<img align="left" alt="Material-UI" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Material_UI.svg" />](https://material-ui.com/)
 [<img align="left" alt="Postman" width="32px" src="https://seeklogo.com/images/412593/postman" />](https://seeklogo.com/vector-logo/412593/postman)
 [<img align="left" alt="Socket.IO" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />](https://socket.io/)
 [<img align="left" alt="Docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />](https://www.docker.com/)
