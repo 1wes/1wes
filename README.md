@@ -36,5 +36,5 @@
 
 ## A bit of stats about me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1wes&layout=compact)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1wes&layout=compact)
 
