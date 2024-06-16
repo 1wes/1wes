@@ -31,6 +31,10 @@
 [<img align="left" alt="Redis" width="45px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" />](https://redis.io/)
 [<img align="left" alt="Electron" width="32px" src="https://cdn.worldvectorlogo.com/logos/electron.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="PHP" width="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />](https://www.php.net/)
+[<img align="left" alt="React" width="32px" src="https://cdn.worldvectorlogo.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="JavaScript" width="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="HTML" width="32px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 
 
