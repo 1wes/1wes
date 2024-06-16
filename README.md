@@ -30,6 +30,10 @@
 [<img align="left" alt="Redis" width="45px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" />](https://redis.io/)
 [<img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="PHP" width="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />](https://www.php.net/)
+[<img align="left" alt="Tomcat" width="32px" src="https://cdn.worldvectorlogo.com/logos/apache-tomcat.svg" />](https://tomcat.apache.org/)
+[<img align="left" alt="Apache" width="32px" src="https://cdn.worldvectorlogo.com/logos/apache.svg" />](https://httpd.apache.org/)
+[<img align="left" alt="SQL Server" width="32px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />](https://www.microsoft.com/en-us/sql-server)
+
 
 
 
