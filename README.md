@@ -30,6 +30,7 @@
 [<img align="left" alt="Express.js" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />](https://expressjs.com/)
 [<img align="left" alt="Redis" width="45px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" />](https://redis.io/)
 [<img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />](https://www.electronjs.org/)
+[<img align="left" alt="PHP" width="32px" src="https://www.php.net/images/logos/new-php-logo.svg" />](https://www.php.net/)
 
 
 
