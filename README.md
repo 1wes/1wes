@@ -34,5 +34,6 @@
 [<img align="left" alt="Next.js" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />](https://nextjs.org/)
 [<img align="left" alt="TypeScript" width="32px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />](https://www.typescriptlang.org/)
 
+## A bit of stats about me
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1wes&layout=compact)
 
