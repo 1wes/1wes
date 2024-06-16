@@ -14,11 +14,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/okemwa-wes)
 
 ## Tools, Languages, and Technologies I have worked with so far:
+
 [<img align="left" alt="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
 [<img align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
 [<img align="left" alt="MySQL" width="32px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />](https://www.mongodb.com/)
-[<img align="left" alt="ButterCMS" width="32px" src="https://buttercms.com/images/marketing-icons/ButterCMS-logo.png" />](https://buttercms.com/)
 [<img align="left" alt="Socket.IO" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />](https://socket.io/)
 [<img align="left" alt="Material UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/)
 [<img align="left" alt="Docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />](https://www.docker.com/)
@@ -28,6 +28,7 @@
 [<img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="Linux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />](https://www.linux.org/)
 [<img align="left" alt="Express.js" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />](https://expressjs.com/)
+
 
 
 <!--
