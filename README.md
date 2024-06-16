@@ -1,5 +1,4 @@
 # Hi there 👋, I am Okemwa Wesley.
-![Profile Views](https://gpvc.arturio.dev/1wes)
 
 ## About Me
 - 🔭 I’m currently working on **[WriteMe](https://github.com/1wes/WriteMe)**
@@ -39,4 +38,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1wes&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1wes&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1wes&show_icons=true&theme=dark&custom_title=GitHub%20Stats%20%26%20Contributions)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1wes)](https://git.io/streak-stats)
