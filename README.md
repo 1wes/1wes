@@ -15,22 +15,23 @@
 
 ## Tools, Languages, and Technologies I have worked with so far:
 
-[<img align="left" alt="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
-[<img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="42px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
+[<img align="left" alt="React" width="32px" src="https://cdn.worldvectorlogo.com/logos/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="Node.js" width="35px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />](https://nodejs.org/)
+[<img align="left" alt="MySQL" width="32px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />](https://www.mysql.com/)
+[<img align="left" alt="MongoDB" width="42px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Material-UI" width="32px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />](https://material-ui.com/)
 [<img align="left" alt="Postman" width="32px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />](https://seeklogo.com/vector-logo/412593/postman)
-[<img align="left" alt="Socket.IO" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />](https://socket.io/)
-[<img align="left" alt="Docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />](https://www.docker.com/)
-[<img align="left" alt="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="CSS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="Linux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />](https://www.linux.org/)
-[<img align="left" alt="Express.js" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />](https://expressjs.com/)
-[<img align="left" alt="Redis" width="45px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" />](https://redis.io/)
-[<img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />](https://www.electronjs.org/)
-[<img align="left" alt="PHP" width="32px" src="https://www.php.net/images/logos/new-php-logo.svg" />](https://www.php.net/)
+[<img align="left" alt="Socket.IO" width="32px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" />](https://socket.io/)
+[<img align="left" alt="Docker" width="45px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />](https://www.docker.com/)
+[<img align="left" alt="JavaScript" width="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="CSS" width="32px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="HTML" width="32px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="Linux" width="32px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />](https://www.linux.org/)
+[<img align="left" alt="Express.js" width="45px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />](https://expressjs.com/)
+[<img align="left" alt="Redis" width="45px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" />](https://redis.io/)
+[<img align="left" alt="Electron" width="32px" src="https://cdn.worldvectorlogo.com/logos/electron.svg" />](https://www.electronjs.org/)
+[<img align="left" alt="PHP" width="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />](https://www.php.net/)
+
 
 
 
