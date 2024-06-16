@@ -1,5 +1,14 @@
 # Hi there 👋, I am Okemwa Wesley.
 
+## Aboout ne
+- 🔭 I’m currently working on **WriteMe**
+- 🌱 I’m currently learning **FHIR SDK, HAPI SERVER**
+- 👯 I’m looking to collaborate on **everything React, Node.js, FHIR SDK, HAPI SERVER, web development**
+- 🤝 I’m looking for help with **FHIR SDK**
+- 💬 Ask me about **React, Node, systems development**
+- 📫 How to reach me: Email me at [okemwawes@gmail.com](mailto:okemwawes@gmail.com)
+- ⚡ Fun fact: I once worked on a desktop application using **Electron.js** 😁.
+
 <!--
 **1wes/1wes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
