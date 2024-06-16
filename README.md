@@ -28,6 +28,8 @@
 [<img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="Linux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />](https://www.linux.org/)
 [<img align="left" alt="Express.js" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />](https://expressjs.com/)
+[<img align="left" alt="Redis" width="32px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" />](https://redis.io/)
+
 
 
 
