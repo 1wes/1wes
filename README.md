@@ -20,7 +20,7 @@
 [<img align="left" alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="42px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Material UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/)
-[<img align="left" alt="Postman" width="32px" src="https://www.postman.com/assets/postman-logo-horizontal-9e5ed1074b60c2074e313025d5f459ed6d70c6a2d1b903c1249f26de5ecf5b8e.svg" />](https://www.postman.com/)
+[<img align="left" alt="Postman" width="32px" src="https://seeklogo.com/images/412593/postman" />](https://seeklogo.com/vector-logo/412593/postman)
 [<img align="left" alt="Socket.IO" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />](https://socket.io/)
 [<img align="left" alt="Docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />](https://www.docker.com/)
 [<img align="left" alt="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
