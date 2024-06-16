@@ -14,10 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/okemwa-wes)
 
 ## Tools, Languages, and Technologies I have worked with so far:
-[<img align="left" alt="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="35px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />](https://nodejs.org/)
-[<img align="left" alt="MySQL" width="32px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="42px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="React" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)_
+[<img align="left" alt="Node.js" width="35px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />](https://nodejs.org/)_
+[<img align="left" alt="MySQL" width="32px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />](https://www.mysql.com/)_
+[<img align="left" alt="MongoDB" width="42px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />](https://www.mongodb.com/)_
 [<img align="left" alt="Material-UI" width="32px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />](https://material-ui.com/)
 [<img align="left" alt="Postman" width="32px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />](https://www.postman.com/)
 [<img align="left" alt="Socket.IO" width="32px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" />](https://socket.io/)
