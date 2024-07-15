@@ -72,6 +72,12 @@
   <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="32px" />
   </a>
+<a href="https://www.prisma.io/" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="32px" />
+</a>
+<a href="https://www.hl7.org/fhir/" style="text-decoration: none;">
+    <img src="https://www.hl7.org/fhir/assets/images/fhir-logo.png" alt="FHIR" width="32px" />
+</a>
 </div>
 
 ## A bit of stats about me
