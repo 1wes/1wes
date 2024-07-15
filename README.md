@@ -78,6 +78,9 @@
 <a href="https://www.hl7.org/fhir/" style="text-decoration: none;">
     <img src="https://www.hl7.org/fhir/assets/images/fhir-logo.png" alt="FHIR" width="32px" />
 </a>
+  <a href="https://www.postgresql.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="32px" />
+</a>
 </div>
 
 ## A bit of stats about me
