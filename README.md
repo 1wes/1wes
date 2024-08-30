@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **everything React, Node.js, FHIR SDK, HAPI SERVER, web development**
 - 🤝 I’m looking for help with **FHIR SDK**
 - 💬 Ask me about **React, Node, systems development**
-- ⚡ Fun fact: I once worked on a desktop application using **Electron.js** 😁.
+- ⚡ Fun fact: I am close to completing what i call the development trifecta i.e. Web, Mobile, and Desktop.
 - 📫 How to reach me: Email me at [okemwawes@gmail.com](mailto:okemwawes@gmail.com)
 
 ## You can connect with me via
