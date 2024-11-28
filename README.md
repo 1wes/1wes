@@ -1,12 +1,10 @@
 # Hi there 👋, I am Okemwa Wesley.
 
 ## About Me
-- 🔭 I’m currently working on **[WriteMe](https://github.com/1wes/WriteMe)**
-- 🌱 I’m currently learning **FHIR SDK, HAPI SERVER**
-- 👯 I’m looking to collaborate on **everything React, Node.js, FHIR SDK, HAPI SERVER, web development**
-- 🤝 I’m looking for help with **FHIR SDK**
-- 💬 Ask me about **React, Node, systems development**
-- ⚡ Fun fact: I am close to completing what i call the development trifecta i.e. Web, Mobile, and Desktop.
+- 🔭 I’m currently working on a digital maternal healthcare solution
+- 🌱 I’m currently learning Angular and its entire ecosystem as well as software systems 
+- 🤝 I’m looking to collaborate on **everything React, Node.js, HAPI FHIR SERVER, web development**
+- 💬 Ask me about **React, Node, FHIR, HAPI FHIR, systems development**
 - 📫 How to reach me: Email me at [okemwawes@gmail.com](mailto:okemwawes@gmail.com)
 
 ## You can connect with me via
