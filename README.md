@@ -20,7 +20,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="35px" />
   </a>
   <a href="https://www.mysql.com/" style="text-decoration: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="32px" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="32px" />
   </a>
   <a href="https://www.mongodb.com/" style="text-decoration: none;">
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="42px" />
@@ -58,9 +58,6 @@
   <a href="https://www.electronjs.org/" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron" width="32px" />
   </a>
-  <a href="https://www.php.net/" style="text-decoration: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="32px" />
-  </a>
   <a href="https://httpd.apache.org/" style="text-decoration: none;">
     <img src="https://cdn.worldvectorlogo.com/logos/apache.svg" alt="Apache" width="32px" />
   </a>
@@ -78,6 +75,9 @@
 </a>
   <a href="https://www.postgresql.org/" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="32px" />
+</a>
+  <a href="https://angular.io/" style="text-decoration: none;">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="32px" />
 </a>
 </div>
 
